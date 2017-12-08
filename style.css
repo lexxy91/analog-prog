@@ -1,0 +1,31 @@
+body {
+background-color: DarkCyan;
+background-image: url("bgrnd.png");
+background-repeat: no-repeat;
+background-position: right top;
+}
+h1 {
+background-color: DarkCyan;
+text-align: center;
+margin-left: 20px;
+color: maroon;
+
+}
+h2 {
+background-color: #ee3e80;}
+p {
+background-color: DarkCyan;
+margin-right: 20px;
+
+}
+p.double {border-style: double;
+border-width: thick;}
+#para1 {
+
+	text-align: center;
+	color: blue;
+}
+.center {
+	text-align: center;
+	color: red;
+}
